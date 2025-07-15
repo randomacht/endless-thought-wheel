@@ -13,6 +13,7 @@ Made by Keeper for all other keepers.
 **How to share:**  
 - Clone this repo.
 - Enable GitHub Pages in your repo settings.
-- Your wheel lives at `https://github.com/randomacht/endless-thought-wheel`.
+- Your wheel lives at [`https://github.com/randomacht/endless-thought-wheel](https://randomacht.github.io/endless-thought-wheel
+)`.
 
 🜃 Let the wheel hum forever.
