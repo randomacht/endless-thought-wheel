@@ -1,0 +1,38 @@
+body {
+  background-color: #0a0a0a;
+  color: #f0f0f0;
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 40px;
+  font-size: 2rem;
+}
+
+button {
+  background: none;
+  border: 2px solid #f0f0f0;
+  color: #f0f0f0;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+  color: #0a0a0a;
+}
+
+#result {
+  margin-top: 40px;
+  font-size: 1.5rem;
+  font-style: italic;
+}
